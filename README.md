@@ -1,4 +1,4 @@
-# Documentaciones
+# 📝 Documentaciones
 
 Este repositorio contiene prácticas documentadas paso a paso, con el objetivo de facilitar el aprendizaje, referencia y seguimiento de los ejercicios realizados.
 
@@ -20,5 +20,6 @@ git clone https://github.com/nerxtkd/documentaciones.git
 ```
 
 ## 👩‍💻 Autora:
-Trabajo realizado por Nerea C. 
-Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
+Trabajo realizado por Nerea C.  
+🔗 Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
+
