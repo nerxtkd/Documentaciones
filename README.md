@@ -19,12 +19,6 @@ Este repositorio contiene prácticas documentadas paso a paso, con el objetivo d
 git clone https://github.com/nerxtkd/documentaciones.git
 ```
 
-## 📄 Repositorios de las prácticas
-
-Puedes consultar el informe completo en PDF aquí:  
-📁 [Nerxtkd](https://github.com/nerxtkd/)
-
-## 🔗 Autor
-
-Proyecto realizado por [Nerea C.]  
-GitHub: [Nerxtkd](https://github.com/nerxtkd)
+## 👩‍💻 Autora:
+Trabajo realizado por Nerea C. 
+Puedes ver otros proyectos en mi perfil de GitHub: [@nerxtkd](https://github.com/nerxtkd)
