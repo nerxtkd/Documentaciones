@@ -2,7 +2,7 @@
 
 Este repositorio contiene prácticas documentadas paso a paso, con el objetivo de facilitar el aprendizaje, referencia y seguimiento de los ejercicios realizados.
 
---
+---
 
 ## Contenido
 
